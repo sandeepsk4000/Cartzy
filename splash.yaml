@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/logos/cartzy-high-resolution-logo-black-transparent.png
+  image_dark: assets/logos/cartzy-high-resolution-logo-white-transparent (1).png
+
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/logos/cartzy-high-resolution-logo-black-transparent.png
+    image_dark: assets/logos/cartzy-high-resolution-logo-white-transparent (1).png
+  web: false
+

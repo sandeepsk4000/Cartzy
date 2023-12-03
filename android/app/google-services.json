@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674309422908",
+    "project_id": "cartzy-69a59",
+    "storage_bucket": "cartzy-69a59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674309422908:android:c64a688e7e36f05a3d2839",
+        "android_client_info": {
+          "package_name": "com.example.cartzy_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1qsXf5Nwxae62j22wJ0O8n1BSL4akvhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

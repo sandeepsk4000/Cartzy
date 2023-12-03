@@ -1,0 +1,97 @@
+name: cartzy_ecommerce
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+#--------------PACKAGES---------------#
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # utility packages
+  http:
+  intl:
+  logger:
+  url_launcher:
+
+  #Icons
+  iconsax: ^0.0.8
+  cupertino_icons:
+
+
+  #Database
+  firebase_auth: ^4.12.0
+  cloud_firestore: ^4.12.1
+
+  #State Management
+  get: ^4.6.6
+  get_storage:
+  # Product Specific
+  readmore: 
+  #Utility Packages
+  flutter_native_splash: ^2.3.5
+  smooth_page_indicator: ^1.1.0
+  carousel_slider: ^4.2.1
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+ 
+  uses-material-design: true
+
+  # Assets
+
+  assets:
+    - assets/logos/
+    - assets/icons/brands/
+    - assets/images/on_boarding_images/
+    - assets/images/animation/
+    - assets/icons/categories/
+    - assets/images/banners/
+    - assets/images/products/
+    - assets/images/user/
+    
+  
+
+  #Fonts
+
+  fonts:
+    - family: Poppins 
+      fonts:
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-Italic.ttf
+          style: italic
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 800
+    - family: coolvetica
+      fonts:
+        - asset: assets/fonts/coolvetica rg it.otf
+        - asset: assets/fonts/coolvetica rg.otf
+          weight: 700
+  
+ 
