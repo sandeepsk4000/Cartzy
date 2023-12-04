@@ -104,6 +104,19 @@ class TImages {
    static const productImage55="assets/imagesproducts/dog_food3.png";
   // user
   static const user1="assets/images/user/user1.png";
+  // Payment
+   static const paypal="assets/images/Payment/paypal.png";
+   static const paytm="assets/images/Payment/paytm.png";
+   static const googlePay="assets/images/Payment/google_pay.png";
+   static const phonePay="assets/images/Payment/phone_pay.png";
+   static const masterCard="assets/images/Payment/master_card.png";
+   static const visaCard="assets/images/Payment/visa_card.png";
+   static const payStack="assets/images/Payment/Paystack.png";
+   static const paymentSuccess="assets/images/Payment/sammy-line-online-payment.png";
+   
+   
+   
+
 
 }
 
